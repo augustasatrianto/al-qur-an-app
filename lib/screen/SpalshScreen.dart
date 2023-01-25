@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
           Align(
             alignment: Alignment(0, 0.92),
             child: Text(
-              "Development By Reza Kurnia Setiawan",
+              "Development By Augusta Satrianto",
               style: TextStyle(fontSize: 12, color: Colors.white),
             ),
           ),
